@@ -3,4 +3,5 @@
 
 <h1>Notable Projects & Contributions</h1>
 <h2>Movie Watchlsit:</h2> A website that allows users to make accounts to create and share movie watchlists with their friends. The website contains many features including a Movie-Bot, an analytics page, user recommendations, and many other supportive features. 
+<h3>Languages:</h3> Javascript, HTML, CSS
 <h3>Technologies:</h3> React, Tailwind, openai api, TMDB api(movies database)
