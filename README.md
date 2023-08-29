@@ -5,7 +5,6 @@
 
 ## [Movie Watchlist Website](https://runtime-website.vercel.app/)
 <p>A website that allows users to make accounts to create and share movie watchlists with their friends. The website contains many features including a Movie-Bot, an analytics page, user recommendations, and many other supportive features.</p>
-Check out my website: https://runtime-website.vercel.app/
 <p>Languages: Javascript, HTML, CSS</p>
 <p>Technologies: React, Tailwind, openai api, TMDB api(movies database)</p>
 
