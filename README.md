@@ -1,6 +1,13 @@
 # Mark-Fastner
 [LinkedIn](https://www.linkedin.com/in/mark-fastner-3641a0201/)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markfastner&hide=jupyter%20notebook,html)
+
+
+[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markfastner)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h1>Notable Projects & Contributions</h1>
 
 ## [Movie Watchlist Website](https://runtime-website.vercel.app/)
