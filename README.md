@@ -16,8 +16,10 @@
 <p>Languages: Javascript, HTML, CSS</p>
 <p>Technologies: React, Tailwind, openai api, TMDB api(movies database)</p>
 
-## [The Great Dalmuti](https://github.com/markfastner/The-Great-Dalmuti)
-![226686166536666p_large](https://github.com/markfastner/markfastner/assets/61805261/1e201dfa-8a19-4b77-b868-3868a4ca72c3) ![Screenshot 2023-09-11 130915](https://github.com/markfastner/markfastner/assets/61805261/65a515f7-f554-46a7-8c05-bad29f4f070a)
+## [The Great Dalmuti](https://github.com/markfastner/The-Great-Dalmuti) 
+<img src="https://github.com/markfastner/markfastner/assets/61805261/1e201dfa-8a19-4b77-b868-3868a4ca72c3" width="200" height="200">
+
+ ![Screenshot 2023-09-11 130915](https://github.com/markfastner/markfastner/assets/61805261/65a515f7-f554-46a7-8c05-bad29f4f070a)
 
 <p>The Great Dalmuti is a card game that I have played with my family for years. I wanted to have the ability to play my favorite game anywhere in the world so I developed a console version of the game that allows for multiple players to play. The game creates a deck of cards and deals them to all players. Players can then play and make decisions through the console. To play the game please clone the repo and run the tester class</p>
 <p>Languages: Java</p>
